@@ -1,0 +1,63 @@
+Testing a Kettle
+
+
+Functional Tests:
+
+Accuracy Testing
+Verify if the water reaches the required heating temperature (e.g., boiling point or a specific temperature setting).
+
+Suitability Testing
+Check if the kettle heats water to the specified temperature as per its primary function.
+
+Security testing
+Ensure that the kettle's exterior remains cool during operation to prevent user burns.
+
+Interaction Testing
+Verify if the kettle responds correctly to user actions (e.g., turning on or off).
+
+Non-Functional Tests:
+
+Usability Testing
+Assess the ease of using the kettle, including the convenience of the switch, handle, and indicators.
+
+Maintainability Testing
+Check the ease of replacing parts and descaling the kettle to maintain its good working condition.
+
+Reliability Testing
+Test the kettle for stable operation without failures over a prolonged period.
+
+Portability Testing
+Evaluate the ease of moving the kettle from one place to another.
+
+
+Testing a Washing Machine
+
+
+Functional Tests:
+
+Accuracy Testing
+Verify if the washing machine correctly doses water to achieve optimal washing results.
+
+Suitability Testing
+Check if the washing machine effectively washes different types of fabrics and soil levels.
+
+Safety Testing
+Ensure that the operation of the washing machine is safe concerning electrical safety.
+
+Interaction Testing
+Verify if all control functions (e.g., temperature level, drum speed) work correctly.
+
+
+Non-Functional Tests:
+
+Performance Testing
+Measure the duration of the washing cycle and assess the efficiency of energy and water usage.
+
+Usability Testing
+Test the ease of understanding and using the screen interface and control buttons.
+
+Maintainability Testing
+Check the ease of cleaning filters and other components of the washing machine to ensure its reliable operation over a long period.
+
+Portability Testing
+Test the ease of moving the washing machine for transportation purposes.
